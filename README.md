@@ -6,5 +6,5 @@
 
 ![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=David-patrick-chuks)
+
 
