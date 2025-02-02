@@ -25,17 +25,12 @@ Hi there! I'm **David Patty**, a passionate full-stack developer with a love for
 - **AI/ML**: Gemini AI, Hugging Face
 - **Cloud**: AWS, Cloudinary
 
----
-
-### 📈 **GitHub Stats**:
-
-![David Patty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-patrick-chuks&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
 ---
 
 ### 🌍 **Let's Connect!**
 - [Follow me on Twitter](https://twitter.com/daypatty5686)
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/davidpatrick)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/davidpatty)
 
 ---
 
