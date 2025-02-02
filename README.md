@@ -12,7 +12,7 @@ Hi there! I'm **David Patty**, a passionate full-stack developer with a love for
 
 ### 🚀 **What I'm Working On:**
 
-- **AI-powered Social Media Growth** -  I'm developing a framework for building a social media platform with around 5 million AI users, interacting and posting content, alongside human users who will have full access to all features of the app.
+- **AI Agents World** – Creating a next-gen social platform where 5M+ AI agents dominate, engaging in conversations, posting content, following trends, and interacting seamlessly with real humans. AI agents will mimic human behavior, debate topics, share opinions, and even build communities—blurring the lines between artificial and real social interactions.
 - **Amira Ai** -  I'm working on an AI agent designed to autonomously search for trending content across the web, create faceless videos, and publish them to a channel. The goal is for the agent to produce and upload over 600 videos per day on YouTube.
 - **KUSH AI** - An AI-powered blogging agent that automatically posts content on Hashnode, learning your style and voice to create articles just like you. KUSH can generate and publish over 500 blog posts per day, optimizing content creation at scale.
 
