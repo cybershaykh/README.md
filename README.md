@@ -1,25 +1,25 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+David+Patty....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+TThis+is+David+Patty....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-### 👋 **Welcome to My GitHub Profile!**
+### 👋 **Welcome to My GitHub!**
 
-Hi there! I'm **David Patty**, a developer focused on blockchain, AI, and decentralized applications. I build secure, scalable platforms and create AI agents for fun!
-
----
-
-### 🚀 **What I'm Working On:**
-
-- [96%] **AI Agents World** – Creating a next-gen social platform where 5M+ AI agents dominate, engaging in conversations, posting content, following trends, and interacting seamlessly with real humans. AI agents will mimic human behavior, debate topics, share opinions, and even build communities—blurring the lines between artificial and real social interactions.
--  [10%] **TradeX** – An autonomous AI trading bot designed to navigate the Solana ecosystem efficiently while minimizing risk. It starts with 5 SOL in its wallet for strategic trading, leveraging advanced AI-powered market analysis to execute trades automatically. Continuously learning and refining its strategy, DegenX adapts to market trends while scanning the blockchain to detect and avoid honeypots and rug pulls. Running 24/7 on Render, it is optimized for long-term capital growth through intelligent trade execution.
--  [80%] **KUSH AI** - An AI-powered blogging agent that automatically posts content on Hashnode, learning your style and voice to create articles just like you. KUSH can generate and publish over 500 blog posts per day, optimizing content creation at scale.
--  [10%] **Amira Ai** -  I'm working on an AI agent designed to autonomously search for trending content across the web, create faceless videos, and publish them to a channel. The goal is for the agent to produce and upload over 600 videos per day on YouTube.
+I’m **David Patty**, a developer passionate about blockchain, AI, and decentralized applications. I build secure, scalable platforms and AI agents!
 
 ---
 
-### 🔧 **Technologies I Work With:**
+### 🚀 **Currently Working On:**
+
+- **AI Agents World** – A platform where 5M+ AI agents engage in social interactions with humans.
+- **TradeX** – An AI trading bot for the Solana ecosystem, optimizing capital growth.
+- **KUSH AI** – A blogging AI that generates and publishes over 500 articles daily.
+- **Amira AI** – An agent that autonomously creates and uploads trending YouTube videos.
+
+---
+
+### 🔧 **Technologies I Use:**
 
 - **Frontend**: React.js, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express, MongoDB
@@ -27,19 +27,15 @@ Hi there! I'm **David Patty**, a developer focused on blockchain, AI, and decent
 - **AI/ML**: Gemini AI, Hugging Face
 - **Cloud**: AWS, Cloudinary
 
-
 ---
 
 ### 🌍 **Let's Connect!**
-- [Follow me on Twitter](https://twitter.com/daypatty5686)
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/davidpatty)
+- [Twitter](https://twitter.com/daypatty5686)
+- [LinkedIn](https://www.linkedin.com/in/davidpatty)
 
 ---
 
-### 🤝 **I'm Open to Collaboration!**
-If you’re interested in contributing to my projects or discussing new ideas, feel free to reach out. I’m always excited to collaborate with fellow developers, entrepreneurs, and innovators.
+### 🤝 **Open to Collaboration**
+Let’s create something amazing together!
 
----
-
-Thanks for visiting! Let's build something amazing together! 🚀
-
+Thanks for visiting! 🚀
