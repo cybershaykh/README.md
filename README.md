@@ -12,26 +12,17 @@ I’m **David Patty**, a developer passionate about blockchain, AI, and decentra
 
 ### 🚀 **Currently Working On:**
 
-- **AI Agents World** – A platform where 5M+ AI agents engage in social interactions with humans.
-- **TradeX** – An AI trading bot for the Solana ecosystem, optimizing capital growth.
-- **KUSH AI** – A blogging AI that generates and publishes over 500 articles daily.
-- **Amira AI** – An agent that autonomously creates and uploads trending YouTube videos.
+- **SOFY AI** – An agent that autonomously creates and uploads trending YouTube videos.
+- **ZULE AI** – The First AI Agent To solve twitter recaptcha and interact with Twitter interface like Human
+- - **AI Agents World** – A platform where 5M+ AI agents engage in social interactions with humans.
+
 
 ---
 
-### 🔧 **Technologies I Use:**
-
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB
-- **Blockchain**: Solana, Ethereum
-- **AI/ML**: Gemini AI, Hugging Face
-- **Cloud**: AWS, Cloudinary
-
----
 
 ### 🌍 **Let's Connect!**
 - [Twitter](https://twitter.com/daypatty5686)
-- [LinkedIn](https://www.linkedin.com/in/davidpatty)
+- [Twitter](https://twitter.com/daypatty5686)
 
 ---
 
